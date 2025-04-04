@@ -2,7 +2,9 @@
 # Hi there! This is Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 #### 🐣→💡→🚀 About me
 
-- 🌱 I graduated @[Queen's University](https://queensu.ca/)
+- 🐣 I graduated @[Queen's University](https://queensu.ca/)
+- 💡 I am currently working as Data Sciencist & Co-Founder @ ZOMI Technology Ltd.
+- 🚀 Do things I love
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
@@ -52,13 +54,13 @@
 ![elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571?style=for-the-badge&logo=elasticsearch)
 
 
-<!-- ### ☁️ Hosting/SaaS
+#### ☁️ Hosting/SaaS
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) -->
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-<!-- ### 💻 IDEs/Editors
+#### 💻 IDEs/Editors
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
@@ -76,15 +78,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-<!-- ![Google Search Console](https://img.shields.io/badge/googlesearchconsole%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/googleanalytics%20-%23E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white) -->
-<!-- 
+![Google Search Console](https://img.shields.io/badge/googlesearchconsole%20-%23458CF5?style=for-the-badge&logo=Google-Search-Console&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/googleanalytics%20-%23E37400?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 
-## 🤔 What I'm learning right now
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) -->
 
 
 <!---
