@@ -1,27 +1,18 @@
 
-<!--
-**zhang-shizhe/zhang-shizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-# Hi there! This is Shizhe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there! This is Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 #### 🐣→💡→🚀 About me
 
-- 💬 You can call me **Vincent**.
-- 🌱 I graduated @[UBC Master of Data Science](https://masterdatascience.ubc.ca/)
-- 🔭 Projects I’m currently working on [PocketRecommender](https://github.com/zhang-shizhe/PocketRecommender), [Bookshelf-QABot](https://github.com/zhang-shizhe/Bookshelf-QABot)
+- 🌱 I graduated @[Queen's University](https://queensu.ca/)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
 
 - 📫 How to reach me: 
 
-> <a href="https://www.linkedin.com/in/shizhe-zhang/" target="_blank">
+> <a href="www.linkedin.com/in/junliangdai" target="_blank">
 >   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
 > </a>
-> <a href="mailto:shizhe_zhang@outlook.com" target="_blank">
+> <a href="mailto:daijulian419@gmail.com" target="_blank">
 >   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
 > </a>
 
