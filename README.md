@@ -4,7 +4,7 @@
 
 - 🐣 I graduated @[Queen's University](https://queensu.ca/)
 - 💡 I am currently working as Data Sciencist & Co-Founder @ ZOMI Technology Ltd.
-- 🚀 Do things I love
+- 🚀 Go
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...-->
