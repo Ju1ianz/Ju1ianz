@@ -1,10 +1,5 @@
 # Hi there! This is Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-#### 🐣→💡→🚀 About me
-
-- 🐣 I graduated @[Queen's University](https://queensu.ca/)
-- 💡 I am currently working as Data Scientist & Co-Founder @ ZOMI Technology Ltd.
-- 🚀 Go
 
 - 📫 How to reach me: 
 
@@ -15,9 +10,6 @@
 >   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
 > </a>
 
-<details>
-  <summary><b>🔧 Tech Stack</b></summary>
-  <br/>
   
 #### 💻 System
 
