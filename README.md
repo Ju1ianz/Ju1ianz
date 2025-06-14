@@ -1,5 +1,11 @@
 # Hi there! This is Julian <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
+#### 👨 About me
+
+- 🐣 I graduated @[Queen's University](https://queensu.ca/)
+- 💡 I am currently Co-Founder @ ZOMI Technology Ltd.
+- 🦸 I ALWAYS WIN
+
 
 - 📫 How to reach me: 
 
