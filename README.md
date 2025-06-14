@@ -18,6 +18,12 @@
 <details>
   <summary><b>🔧 Tech Stack</b></summary>
   <br/>
+  
+#### 💻 System
+
+![Linux](https://img.shields.io/badge/linux-%23333333.svg?style=for-the-badge&logo=linux&logoColor=white) 
+![Windows](https://img.shields.io/badge/windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white) 
+![macOS](https://img.shields.io/badge/macos-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 #### 🗣️ Languages
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
