@@ -12,7 +12,7 @@
 > <a href="www.linkedin.com/in/junliangdai" target="_blank">
 >   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 > </a>
-> <a href="mailto:daijulian419@gmail.com" target="_blank">
+> <a href="mailto:d@zomi.menu" target="_blank">
 >   <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook Badge" />
 > </a>
 
